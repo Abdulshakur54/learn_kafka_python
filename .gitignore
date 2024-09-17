@@ -1,3 +1,4 @@
 .env
 .confluent
 .kafka-venv
+__pycache__
